@@ -1,0 +1,14 @@
+QDialog
+{
+    background-image: url("939716.png");
+}
+QPushButton
+{
+    border: None;
+    background-color: #7ad0eb;
+    width: 800px;
+    min-height:50px;
+    text-align: center;
+    color: #233338;
+    font-size: 15px;
+}
